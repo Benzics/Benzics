@@ -1,5 +1,3 @@
-Hi I'm Benjamin, a fullstack web and mobile developer.
--
-I'm versed in the MVC software development architecture.
-I primarily use PHP(Codeigniter, Laravel) for my backend web applications.
+I am an enthusiastic web developer with an insatiable taste for new technologies.
+I am well experienced in PHP and Javascript among others.
 Welcome to my github!
