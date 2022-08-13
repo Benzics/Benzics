@@ -57,7 +57,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,nextjs,mysql,sqlite,github,wordpress,vite" />
+    <img src="https://skillicons.dev/icons?i=jenkins,nextjs,mysql,sqlite,github,wordpress,vite,jquery,codeigniter" />
   </a>
 </p>
 
