@@ -63,27 +63,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<br>
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=benzics&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="benzics" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzics&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="benzics" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzics&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="benzics" /></p>
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=benzics&bg_color=0d1117&text_color=ffffff" alt="benzics" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=benzics&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzics&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ 
+ </details>
