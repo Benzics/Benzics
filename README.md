@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Benjamin+Ojobo;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Welcome+to+my+github;Benjamin+Ojobo;Full+Stack+Web+Developer)](https://git.io/typing-svg)
  
  </div>
 
@@ -22,7 +22,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m a full stack web developer
+- 🌱 I’m a full stack web developer with an insatiable taste for new technologies. 
 
 - 📫 Reach me on **benjaminnicholas29@gmail.com**
 
@@ -57,7 +57,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,nextjs,mysql,sqlite,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=jenkins,nextjs,mysql,sqlite,github,wordpress,vite" />
   </a>
 </p>
 
