@@ -1,3 +1,4 @@
+# About
 Enthusiastic and quick learning Software Engineer with 4+ years of experience in coding, testing and establishing system improvements.
 
 ### Quick highlights
