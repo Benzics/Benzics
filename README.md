@@ -1,5 +1,5 @@
 # About
-Enthusiastic and quick learning Software Engineer with 4+ years of experience in coding, testing and establishing system improvements.
+Enthusiastic and quick learning Software Engineer with 5+ years of experience in coding, testing and establishing system improvements.
 
 ### Quick highlights
 - Extensive experience in PHP and JavaScript.
