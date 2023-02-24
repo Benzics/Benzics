@@ -2,7 +2,7 @@
 Enthusiastic and quick learning Software Engineer with 6+ years of experience in coding, testing and establishing system improvements.
 
 ### Quick highlights
-- Extensive experience in PHP and JavaScript.
+- Extensive experience in PHP, Python, and JavaScript.
 - Experience in developing distributed systems using microservice architecture and message passing.
 - Developed applications by following SOLID principles, clean architecture.
 - Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing.
@@ -10,7 +10,7 @@ Enthusiastic and quick learning Software Engineer with 6+ years of experience in
 
 ### Technology Stacks
 - Languages: PHP, JavaScript, Python
-- Frameworks: Laravel, React, CodeIgniter, NextJs, NestJs, NodeJs.
+- Frameworks: Laravel, Symfony, WordPress, React, CodeIgniter, NextJs, NestJs, NodeJs.
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
 
