@@ -9,7 +9,7 @@ Enthusiastic and quick learning Software Engineer with 6+ years of experience in
 - Worked in Agile Scrum process in software development.
 
 ### Technology Stacks
-- Languages: PHP, JavaScript.
+- Languages: PHP, JavaScript, Python
 - Frameworks: Laravel, React, CodeIgniter, NextJs, NestJs, NodeJs.
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
