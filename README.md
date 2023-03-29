@@ -20,3 +20,7 @@ Enthusiastic and quick learning Software Engineer with 6+ years of experience in
 <a href="https://github.com/benzics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzics&theme=nord&langs_count=4" />
 </a>
+
+### Contact
+- benjaminnicholas29@gmail.com
+- https://linkedin.com/in/benzics
