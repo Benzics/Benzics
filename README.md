@@ -9,7 +9,7 @@ Enthusiastic and quick learning Software Engineer with 6+ years of experience in
 - Worked in Agile Scrum process in software development.
 
 ### Technology Stacks
-- Languages: PHP, JavaScript, Python
+- Languages: PHP, JavaScript, Python, Flutter, C#
 - Frameworks: Laravel, Symfony, WordPress, React, CodeIgniter, NextJs, NestJs, NodeJs.
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
@@ -20,6 +20,9 @@ Enthusiastic and quick learning Software Engineer with 6+ years of experience in
 <a href="https://github.com/benzics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzics&theme=nord&langs_count=4" />
 </a>
+
+### Resume
+https://resumenerd.com/sites/benzics
 
 ### Contact
 - benjaminnicholas29@gmail.com
