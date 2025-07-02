@@ -1,16 +1,15 @@
 # About
-Enthusiastic and quick learning Software Engineer with 6+ years of experience in coding, testing and establishing system improvements.
+Computer enthusiast, 10+ years in Software Engineering, experienced in web and mobile development, and all areas of the software development lifecycle.
 
 ### Quick highlights
 - Extensive experience in PHP, Python, and JavaScript.
-- Experience in developing distributed systems using microservice architecture and message passing.
-- Developed applications by following SOLID principles, clean architecture.
-- Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing.
-- Worked in Agile Scrum process in software development.
+- Experienced in product design and development
+- BSc Computer Science
+- Experienced with Microservices, Test Driven Development, and highly scalable architectures
 
 ### Technology Stacks
-- Languages: PHP, JavaScript, Python, Flutter, C#
-- Frameworks: Laravel, Symfony, WordPress, React, CodeIgniter, NextJs, NestJs, NodeJs.
+- Languages: PHP, JavaScript, Python
+- Frameworks: Laravel, Symfony, Vue, React, React Native, NextJs, NestJs, NodeJs.
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
 
