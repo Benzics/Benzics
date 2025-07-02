@@ -2,14 +2,14 @@
 Computer enthusiast, 10+ years in Software Engineering, experienced in web and mobile development, and all areas of the software development lifecycle.
 
 ### Quick highlights
-- Extensive experience in PHP, Python, and JavaScript.
+- Extensive experience in PHP, Python, and TypeScript.
 - Experienced in product design and development
 - BSc Computer Science
 - Experienced with Microservices, Test Driven Development, and highly scalable architectures
 
 ### Technology Stacks
 - Languages: PHP, JavaScript, Python
-- Frameworks: Laravel, Symfony, Vue, React, React Native, NextJs, NestJs, NodeJs.
+- Frameworks: Laravel, Symfony, Vue, React, React Native, NextJs, NestJs, NodeJs, TailwindCSS.
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
 
