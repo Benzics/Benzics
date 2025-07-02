@@ -1,5 +1,5 @@
 # About
-Computer enthusiast, 10+ years in Software Engineering, experienced in web and mobile development, and all areas of the software development lifecycle.
+Computer enthusiast, 10+ years in Software Engineering, experienced in web, mobile, and desktop development, and all areas of the Software Development Life Cycle.
 
 ### Quick highlights
 - Extensive experience in PHP, Python, and TypeScript.
